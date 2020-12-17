@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Android Studio, Visual Studio Code, After Effects, Git and GitHub.</strong>
+  💼 Tools: <strong>Android Studio, Visual Studio Code, Burp Suite, Git and GitHub.</strong>
 </p>
 
 <p align="left">
