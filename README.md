@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
 <p align="left"> 
-  Hello i'm Nowbie, currently working as <strong>T.I guy</strong>. Focused on <strong>Back-end</strong> and <strong>Android development</strong>.<br>
+  Hello, i'm Nowbie. Currently working as <strong>T.I guy</strong>. Focused on <strong>Back-end</strong> and <strong>Android development</strong>.<br>
   I am studying server infrastructure and Android Java development for my streaming app project.
 </p>
 
