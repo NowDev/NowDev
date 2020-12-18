@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
 <p align="left"> 
-  Hello, i'm Nowbie. Currently working as <strong>T.I guy</strong>. Focused on <strong>Back-end</strong> and <strong>Android development</strong>.<br>
-  I am studying server infrastructure and Android Java development for my streaming app project.
+  Hello, i'm Nowbie. Currently working as <strong>i.t guy</strong>. Focused on <strong>back-end</strong> and <strong>Android development</strong>.<br>
+  Right now, i'm studying server infrastructure and Android Java development for my streaming app project.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, PHP, JavaScript, Python, Windows Server and Networks.</strong>
+  🦄 Skills: <strong>Java, PHP, Python, JavaScript, Windows Server and Networks.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Android Studio, Visual Studio Code, Burp Suite, Git and GitHub.</strong>
+  💼 Tools: <strong>Android Studio, Visual Studio Code, Burp Suite, Git and others...</strong>
 </p>
 
 <p align="left">
