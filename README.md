@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, PHP, Python, JavaScript, Windows Server and Networks.</strong>
+  🦄 Skills: <strong>Java, PHP, Python, JavaScript, Linux & Windows Server and Networks.</strong>
 </p>
 
 <p align="left">
