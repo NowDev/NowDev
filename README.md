@@ -19,10 +19,26 @@
   🦄 Skills / Tools:
 </p>
 <p align="left">
+	<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+      alt="Kotlin"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="Java"
+      width="40"
+      height="40"
+    />
+  </a>
+	<a href="https://docs.microsoft.com/pt-BR/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+      alt="C#"
       width="40"
       height="40"
     />
@@ -45,7 +61,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       alt="Node.js"
       width="65"
       height="40"
@@ -53,7 +69,7 @@
   </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       alt="ReactJS"
       width="60"
       height="40"
@@ -61,7 +77,7 @@
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"
       alt="MySQL / MariaDB"
       width="40"
       height="40"
@@ -69,7 +85,7 @@
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
       alt="Linux"
       width="40"
       height="40"
@@ -87,14 +103,6 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg"
       alt="Android Studio"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
-      alt="Visual Studio Code"
       width="40"
       height="40"
     />
