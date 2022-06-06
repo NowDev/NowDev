@@ -9,10 +9,10 @@
 
 <p align="left">
   Hello, i'm Nowbie. Currently working with
-  <strong>ReactJS, VueJS and PHP</strong>. Focused on
-  <strong>NodeJS API's</strong> and <strong>Android development</strong>.<br />
-  Right now, i'm studying server infrastructure and Android Java development for
-  my streaming app project.
+  <strong>ReactJS, C# and PHP</strong>. Focused on
+  <strong>NodeJS</strong> and <strong>Android development</strong>.<br />
+  Right now, i'm studying C# and Android development for
+  my projects.
 </p>
 
 <p align="left">
