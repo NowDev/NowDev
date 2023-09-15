@@ -16,6 +16,7 @@
   💌 If you want to carry out a project with me (or make small talk), don't
   hesitate to send me a message: ⤵️
 </p>
+<p>ps. i'm not open for job offers!</p>
 
 <p align="left">
   <a href="https://t.me/nowbie" alt="Telegram">
